@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust,Nextjs,Relational Postgresql Database**
 
-- 👯 I’m looking ready-to **collaboration startups,Business Ideas,and development**
+- 👯 Always interested in collaborating on **startups, business ideas, and development work**, especially where business understanding and technology come together to drive growth
 
 - 👨‍💻 All of my projects are available at [coming-soon](coming-soon)
 
