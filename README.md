@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shekhar</h1>
 <h3 align="center">Full-Stack Developer specializing in scalable, user-friendly web applications. I focus on efficiency and optimization, with a strong background in mobile retail, healthcare tech, and developing custom solutions to address real-world challenges</h3>
 
-- 🔭 Building a centralized automation platform for GreenDye Chem Pvt. Ltd. to manage wholesale distribution operations, including accounting workflows, real-time tracking of 50+ employees, logistics coordination, and AI-assisted task automation
+- 🔭 Building a centralized automation platform for wholesale distribution operations, covering accounting workflows, real-time tracking of 50+ employees, logistics coordination, and AI-assisted task automation.
 
 - 🌱 I’m currently learning **Rust,Relational Postgresql Database,AI-Automation**
 
