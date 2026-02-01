@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust,Nextjs,Relational Postgresql Database**
 
-- 👯 I’m looking to collaborate on **Shri-ganesh-Agency**
+- 👯 I’m looking ready-to **collaboration startups,Business Ideas,and development**
 
 - 👨‍💻 All of my projects are available at [coming-soon](coming-soon)
 
