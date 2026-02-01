@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shekhar</h1>
 <h3 align="center">Full-Stack Developer specializing in scalable, user-friendly web applications. I focus on efficiency and optimization, with a strong background in mobile retail, healthcare tech, and developing custom solutions to address real-world challenges</h3>
 
-- 🔭 Currently developing a platform for pharmaceutical distributors that allows medical stores to buy medicines online, manage transactions, and improve communication with distributors **Shri-ganesh-Agency**
+- 🔭 Building a centralized automation platform for GreenDye Chem Pvt. Ltd. to manage wholesale distribution operations, including accounting workflows, real-time tracking of 50+ employees, logistics coordination, and AI-assisted task automation
 
-- 🌱 I’m currently learning **Rust,Nextjs,Relational Postgresql Database**
+- 🌱 I’m currently learning **Rust,Relational Postgresql Database,AI-Automation**
 
 - 👯 Always interested in collaborating on **startups, business ideas, and development work**, especially where business understanding and technology come together to drive growth
 
